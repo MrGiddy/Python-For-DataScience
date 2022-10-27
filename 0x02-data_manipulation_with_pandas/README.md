@@ -11,5 +11,9 @@
 - Note that the rank is an integer, so you need to convert the user input to an integer
 
 ## 3. Reading Data
+- You are working with 'ca-covid' CSV file that contains the COVID-19 infection data in California for the year 2020
+- The file provides data on daily cases and deaths for the entire year
+- Find and output the row that corresponds to December 31, 2020
+ 
 ## 4. Working with Data
 ## 5. Grouping
